@@ -1,0 +1,4 @@
+dbt-core==1.4.9
+dbt-redshift==1.4.0
+astronomer-cosmos==1.0.5
+
